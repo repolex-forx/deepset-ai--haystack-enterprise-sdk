@@ -1,0 +1,7 @@
+[2026-11-08T02:27:44Z] === AST ITERATION 1 START | repo=deepset-ai/haystack-enterprise-sdk sha=ba7c53bf ===
+[2026-11-08T02:27:44Z] [iter=1] PHASE START: ast repo=deepset-ai/haystack-enterprise-sdk sha=ba7c53bf
+[2026-11-08T02:27:44Z] [iter=1] Building AST aggregate chunks
+[2026-11-08T02:29:40Z] [iter=1] AST chunks built count=1 triples=1228897
+[2026-11-08T02:29:40Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/ba7c53bff4e45a7d2449fde95632b159027c661b/.complete
+[2026-11-08T02:29:40Z] [iter=1] PHASE END: ast elapsed_s=116 elapsed_min=1.9
+[2026-11-08T02:29:40Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
